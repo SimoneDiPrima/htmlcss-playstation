@@ -39,6 +39,16 @@ height:30%;
 .subtitle-image-component{
     text-align: center;
 }
+.text-second-jumbo{
+    font-size: 35px;
+}
+#second-jumbo{
+    background-image: image("img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: contain;
+}
+.title-new-release , .release-card{
+    background-color: rgb(29, 29, 29)
+}
 
 
 
