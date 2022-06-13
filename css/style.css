@@ -29,7 +29,16 @@ ul{
 .ret-img{width:30%;
 height:30%;
 }
-
+.play-no-limit{
+    text-decoration: none;
+   font-size: 15px;
+}
+.paragraph-play5{
+  width:80%;
+}
+.subtitle-image-component{
+    text-align: center;
+}
 
 
 
