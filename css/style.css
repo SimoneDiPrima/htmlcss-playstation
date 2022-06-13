@@ -1,4 +1,6 @@
-
+body{
+    padding-top:120px;
+}
 .container-fluid{
     width:100vw;
 }
@@ -14,7 +16,7 @@ ul{
     width:100px;   
 }
 .logo-img{
-   min-height:50px;
+   height:100%;
    
 }
 .jumbotron{
@@ -47,16 +49,8 @@ height:30%;
     background-size: contain;
 }
 .title-new-release , .release-card{
-    background-color: rgb(29, 29, 29)
+    background-color: rgb(29, 29, 29);
 }
-
-
-
-
-
-
-
-
 
 /* utilities */
 
