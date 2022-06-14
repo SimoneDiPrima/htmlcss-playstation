@@ -15,6 +15,26 @@ ul{
     height:100px;
     z-index:10;
 }
+.btn-black{
+    border:none;
+    color:white;
+    background-color: black;  
+}
+.btn-black a{
+    text-decoration: none;
+    color:white;
+}
+.btn-jumbo{
+    color:white;
+    background-color: orangered;
+    border:none;
+}
+.btn-orange a{
+    text-decoration: none;
+    color:white;
+    background-color: orangered;
+    
+}
 .logo{
     width:100px;   
 }
@@ -90,6 +110,9 @@ height:100%;
 }
 .w-20{
     width:20%;
+}
+.w-10{
+    width:10%;
 }
 img{
 width:100%;
