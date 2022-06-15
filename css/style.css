@@ -50,6 +50,10 @@ ul{
     background-image:url("../img/it-takes-two-hero-banner-desktop.jpg");
    
 }
+.link-playgame a{
+    text-decoration: none;
+    color:white;
+}
 .figure-psnow{border-bottom:none;}
 
 .border-red{
