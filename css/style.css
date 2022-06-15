@@ -67,6 +67,11 @@ ul{
     text-decoration: none;
     color:white;
 }
+.footer-links a{
+    text-decoration: none;
+    color:white;
+
+}
 /* images*/
 .logo-img{
     height:100%;
@@ -89,7 +94,7 @@ width:30%;
     width:40%;
 }
 .width-10{
-    width:5%;
+    width:10%;
 }
 .right-small-menu a{
     text-decoration: none;
