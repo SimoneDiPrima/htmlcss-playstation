@@ -8,19 +8,38 @@ ul{
     height:100px;
     z-index:10;
 }
+.play-no-limit{
+    text-decoration: none;
+   font-size: 15px;
+}
+.paragraph-play5{
+  width:80%;
+}
+.subtitle-image-component{
+    text-align: center;
+}
+.title-new-release{
+    margin-top: -5px;
+}
+.title-new-release , .release-card{
+    background-color: rgb(29, 29, 29);
+}
+.paragrafo-psnow{
+    font-size: 30px;
+}
+/* button and color */
+.bg-gray{
+    background-color: gray;
+}
+.bg-blue{
+    background-color: blue;
+}
 .button-orange{
     text-decoration: none;
     color:white;
     background-color: orangered;
-    
 }
-.logo{
-    width:100px;   
-}
-.logo-img{
-   height:100%;
-   
-}
+/* jumbotron */
 .jumbotron{
     background-size: cover;
     background-position:top center;
@@ -36,55 +55,33 @@ ul{
     background-image:url("../img/it-takes-two-hero-banner-desktop.jpg");
    
 }
-.link-playgame a{
-    text-decoration: none;
-    color:white;
-}
-.figure-psnow{border-bottom:none;}
-
-.border-red{
-    border:5px solid red;
-}
-.ret-img{width:100%;
-height:100%;
-}
-.play-no-limit{
-    text-decoration: none;
-   font-size: 15px;
-}
-.paragraph-play5{
-  width:80%;
-}
-.subtitle-image-component{
-    text-align: center;
-}
 .text-second-jumbo{
     font-size: 25px;
 }
-.title-new-release{
-    margin-top: -5px;
-}
-.title-new-release , .release-card{
-    background-color: rgb(29, 29, 29);
-}
-.bg-gray{
-    background-color: gray;
-}
-.bg-blue{
-    background-color: blue;
-}
-.paragrafo-psnow{
-    font-size: 30px;
-}
+/* a link */
 .footer-link a{
     text-decoration: none;
     color:white;
 }
-/* utilities */
+.link-playgame a{
+    text-decoration: none;
+    color:white;
+}
+/* images*/
+.logo-img{
+    height:100%;
+    max-width:100px;   
+ }
 img{
 width:100%;
 height:100%;
 }
+
+.ret-img{width:100%;
+    height:100%;
+    }
+    .figure-psnow{border-bottom:none;}
+/* utilities width/spacing */
 .width-30{
 width:30%;
 }
@@ -97,4 +94,7 @@ width:30%;
 .right-small-menu a{
     text-decoration: none;
     color:rgb(108,117,125);
+}
+.logo-img{
+   height:100%;
 }
