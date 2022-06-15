@@ -28,6 +28,13 @@ ul{
 .paragrafo-psnow{
     font-size: 30px;
 }
+.small-hand-icon{
+   font-size: 30%;
+   position:absolute;
+   top:30%;
+   background-color: white;
+   color:black;
+}
 /* button and color */
 .bg-gray{
     background-color: rgb(193,189,188);
