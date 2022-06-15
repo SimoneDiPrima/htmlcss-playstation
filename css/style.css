@@ -37,21 +37,21 @@ ul{
 }
 /* button and color */
 .bg-gray{
-    background-color: rgb(193,189,188);
+    background-color: var(--bg-gray);
 }
 .bg-blue{
-    background-color: rgb(0,67,156);
+    background-color: var(--bg-blue);
 }
 .button-orange{
     text-decoration: none;
     color:white;
-    background-color: rgb(205,61,15);
+    background-color: var(--bg-orange);
 }
 .darkblue{
-    background-color: rgb(54,54,54);
+    background-color: var(--darkblue);
 }
 .botton-blue{
-    background-color:rgb(45,100,230);
+    background-color:var(--botton-blue);
 }
 /* jumbotron */
 .jumbotron{
@@ -116,4 +116,12 @@ width:30%;
 }
 .logo-img{
    height:100%;
+}
+/* palette colori */
+:root{
+    --bg-blue:rgb(0,67,156);
+    --bg-gray:rgb(193,189,188);
+    --bg-orange:rgb(205,61,15);
+    --darkblue:rgb(54,54,54);
+    --botton-blue:rgb(45,100,230);
 }
